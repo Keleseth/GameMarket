@@ -74,3 +74,6 @@ build/
 *.bak
 tmp/
 temp/
+
+# project plan
+PROJECT_PLAN.md
